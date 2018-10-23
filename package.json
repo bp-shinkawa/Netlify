@@ -1,0 +1,14 @@
+{
+  "name": "Netlify",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/bp-shinkawa/Netlify.git",
+  "author": "Masaki Shinkawa <you@example.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
